@@ -1,0 +1,4 @@
+project_id = "wmevaetpzjevqazcqgoz"
+
+[functions.nse-options]
+verify_jwt = false

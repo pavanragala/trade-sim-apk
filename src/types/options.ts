@@ -60,7 +60,7 @@ export interface OptionTrade {
 export type IndexSymbol = 'NIFTY' | 'BANKNIFTY' | 'FINNIFTY';
 
 export const LOT_SIZES: Record<IndexSymbol, number> = {
-  NIFTY: 25,
-  BANKNIFTY: 15,
+  NIFTY: 75,
+  BANKNIFTY: 35,
   FINNIFTY: 25,
 };
